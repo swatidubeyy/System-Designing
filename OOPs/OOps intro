@@ -1,0 +1,30 @@
+*************************************************************************** OOPs **************************************************************************************
+
+OOP stands for Object-Oriented Programming. 
+Procedural programming is about writing procedures or methods that perform operations on the data, 
+while object-oriented programming is about creating objects that contain both data and methods.
+
+
+Object-oriented programming (OOP) is a style of programming characterized by the identification of classes of objects closely linked with the methods (functions)
+with which they are associated. It also includes ideas of inheritance of attributes and methods.
+
+
+
+********************************************************************What are the 4 basics of OOP? ************************************************************************
+
+Now, there are four fundamental concepts of Object-oriented programming – 
+Inheritance, Encapsulation, Polymorphism, and Data abstraction. It is very important to know about all of these in order to understand OOPs.
+
+
+********************************************************************************* Why OOPs made *********************************************************************************
+
+
+In programming langauge we can se we write functions based on verbs, eg - >> mergeSort() , quickSort() etc.
+but in OOPs we can name Object and Classes based on noun , eg ->> student swati {
+                                                                                String name;
+                                                                                int age;
+                                                                                sayHii();
+                                                                                boolean isTall; 
+                                                                                  },  
+                                                                                  
+etc (where swati has some attributes  like swati is adjective , age is adjective , sayhii() is verb;)
